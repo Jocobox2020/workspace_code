@@ -11,7 +11,7 @@ public class Test_Thread {
         t2.start();
         t3.start();
         /**
-         * t
+         * t.100
          */
 
     }
